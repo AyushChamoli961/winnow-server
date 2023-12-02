@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "start": "nodemon server.js",
-    "server": "node server.js"
+    "server": "node server.js",
+    "build" : "node server.js"
   },
   "keywords": [],
   "author": "jirukshtech",
